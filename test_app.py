@@ -22,6 +22,8 @@ for file in os.listdir('.'):
         img.save("300\{}_300.jpg".format(fn))
         print("{}_300.jpg".format(fn))
 
+## just is for test from Home server1
+
 
 
 #print(os.chdir("."))
