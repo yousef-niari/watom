@@ -23,6 +23,7 @@ for file in os.listdir('.'):
         print("{}_300.jpg".format(fn))
 
 ## just is for test from Home server1
+## test 2
 
 
 
